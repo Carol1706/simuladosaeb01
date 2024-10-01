@@ -6,8 +6,8 @@
     <title>Document</title>
     <?php 
         $host = 'localhost';
-        $db = 'senai_ta_aulaphp';
-        $user = 'gabriel';
+        $db = 'simuladosaeb';
+        $user = 'carolina';
         $pass = '123456';
         $port = 3307; // Porta MySQL correta
         // Inclui o arquivo da classe Database que criamos para conectar dentro da pasta php
